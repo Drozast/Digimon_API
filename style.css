@@ -1,0 +1,23 @@
+.table img {
+    width: 60px;
+    height: 60px;
+  }
+  .tabla-container {
+    display: none;
+  }  
+
+body {
+    background-image: url('assets/img/001.jpg');
+    background-repeat: repeat;
+    background-size: contain ;
+  }
+  
+  h1 { 
+    text-align: center;
+    background-color: aliceblue;
+  }
+
+  .navbar {
+    max-height: 120px;
+  }
+  
